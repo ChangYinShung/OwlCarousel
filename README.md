@@ -1,3 +1,17 @@
+###  自訂樣式
+Customlized-owl-carousel.scss : `content-slider-with-controls`、`content-slider-with-controls-bottom` 、`carousel`
+```html
+<data-owl-carousel class="owl-carousel content-slider-with-controls" data-options="{singleItem:true,autoPlay: false,navigation: true,navigationText: false,pagination: true}">
+	<div owl-carousel-item ng-repeat="Item in Ctrl.Data">
+        <img ng-src="{{Item.ImageUrl}}" alt="{{Item.Title}}" fallback-src>
+        <a ng-href="#" class="popup-img overlay" title="image title"><i class="fa fa-search-plus"></i></a>
+    </div>
+</data-owl-carousel>
+```
+
+
+
+
 ##New version 2.0.0-beta now available for testers. [Check it](http://www.owlgraphic.com/owlcarousel2/)
 
 ### OwlCarousel ###
