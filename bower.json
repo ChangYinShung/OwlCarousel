@@ -5,7 +5,7 @@
     "owl-carousel"
   ],
   "description": "add angular directive",
-  "main": ["owl-carousel/owl.carousel.js","/owl-carousel/owl.carousel.css","/owl-carousel/owl.theme.css","/owl-carousel/owl.transitions.css","owl-carousel/AjaxLoader.gif","owl-carousel/grabbing.png","angular-directive/angular-owlCarousel.js","angular-directive/custome-owl-carousel.scss"],
+  "main": ["owl-carousel/owl.carousel.js","/owl-carousel/owl.carousel.css","/owl-carousel/owl.theme.css","/owl-carousel/owl.transitions.css","owl-carousel/AjaxLoader.gif","owl-carousel/grabbing.png","angular-directive/angular-owlCarousel.js","angular-directive/custome-owl-carousel.scss","angular-directive/custome-owl-carousel.css"],
   "keywords": [
     "angularjs",
     "owl-carousel"
