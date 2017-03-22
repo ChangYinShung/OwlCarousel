@@ -106,17 +106,17 @@
 }
 
 .owl-controls .owl-buttons div:after {
-  font-family: "fontello";
+  font-family: "FontAwesome";
   font-size: 18px;
   line-height: 26px;
 }
 
 .owl-prev:after {
-  content: "\e87c";
+  content: "\f053";
 }
 
 .owl-next:after {
-  content: "\e87d";
+  content: "\f054";
 }
 
 .no-touch .owl-controls.clickable .owl-buttons div:hover {
